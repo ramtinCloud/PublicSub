@@ -1,3 +1,5 @@
 nm-ssh://GCtEtnuTBB+4ggUiV8dz3eoBfqyffzJU6n3wbThwIa2zJW7wG5dJsU4hqCIqVl6x3ONe+3RkVmPizpCnDO3ITyXiqoJbaClS3K0jWB3eqPQft5mdtFzaU2a/wzuq7vN8Cjrv5YBRV+cxNnZXweNoGSkVRMYTWHSFHqg3ojCKdmHfgmIN2Xv9NGeg0+NjlqAHKdNpDpsAu8LwKwxMcBXkS23s845p23WlKsbQ0SfuMnJqmt6k8jDzosaRZ3ST7prS3/F/jaqoAU5dbq/Y82AG+HjlLVCUokjmgZ/r6D3ABv8=
 
 vless://6ea66c3a-fa32-4e99-d5a5-5fccf4cad0b3@194.62.250.3:17465?type=tcp#VL0
+
+trojan://9D3wmgNisZ@194.62.250.3:49218?path=%2F&host=speedtest.net&type=ws#TRJ3
